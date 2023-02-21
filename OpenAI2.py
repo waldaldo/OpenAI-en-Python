@@ -1,6 +1,4 @@
 import openai
-import time
-import sys, time  # Agregamos los módulos sys y time.
 import config
 
 openai.api_key = config.davinci
